@@ -1,88 +1,89 @@
-<h1 align="center">💯 100 Full Stack Web Development Projects</h1>
+<h1 align="center">🚀 100 Full Stack Web Development Projects Challenge</h1>
 
 <p align="center">
-  🚀 Building 100 real-world full stack web development projects from scratch to mastery — without tutorials, just code, build, and learn.
+  <b>A personal mission to become a Full Stack Developer by building 100 real-world, production-ready projects.</b><br>
+  <i>No tutorials. No bootcamps. Just code, creativity, and consistency.</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS%2FReact-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node%2FExpress%2FMongoDB-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS%2FReact%2FTailwind-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node%2FExpress%2FMongoDB%2FMySQL-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Auth-JWT%2FOAuth%2FSession-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deploy-Vercel%2FRender%2FGitHub%20Pages-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hosting-GitHubPages%2FVercel%2FRender-purple?style=for-the-badge" />
 </p>
 
 ---
 
-## 💡 Why This Challenge?
+## ✨ Why This Challenge?
 
-> Watching tutorials doesn't make you a developer — **building does**.
+Every developer learns differently. I'm building **100 projects** to master full-stack development the hard way — by **actually building things**. Each project adds a new skill, improves problem-solving, and brings me one step closer to mastery.
 
-This is my journey to become a **master full stack developer** by building 100 projects — **no YouTube, no tutorials**, just real-world apps from scratch.
-
----
-
-## 📊 Project Levels
-
-| Level         | Projects | Examples                                  |
-|---------------|----------|-------------------------------------------|
-| 🟢 Beginner    | 25       | Resume Page, Landing Page, Product Card   |
-| 🟡 Intermediate| 40       | Portfolio, Blog App, Dashboard, Auth App  |
-| 🔴 Advanced    | 35       | E-Commerce, Chat App, SaaS Automation     |
+> ⚡️ “If you want to be a great developer — build real stuff, solve real problems.”
 
 ---
 
-## 🧠 Skills Covered
+## 🔥 Project Roadmap
 
-| Skills / Concepts         | Project Range |
-|---------------------------|---------------|
-| HTML & CSS                | 1–10          |
-| JS DOM + Events           | 11–20         |
-| React + Tailwind          | 21–40         |
-| Node.js + Express         | 35–60         |
-| MongoDB + REST API        | 40–65         |
-| Authentication (JWT/OAuth)| 50–75         |
-| Realtime Chat (Socket.io) | 60–80         |
-| Payment Integration + SaaS| 80–100        |
+| Level        | Projects | Highlights                                      |
+|--------------|----------|-------------------------------------------------|
+| 🟢 Beginner   | 25       | Resume Page, Product Card, Landing Page         |
+| 🟡 Intermediate | 40    | Portfolio, Blog CMS, CRUD Dashboard             |
+| 🔴 Advanced   | 35       | E-Commerce, Chat App, Real-Time SaaS Tool       |
 
 ---
 
 ## 📁 Project Directory
 
-| #  | Project Name         | GitHub Repo                                  | Live Demo                                |
-|----|----------------------|-----------------------------------------------|-------------------------------------------|
-| 1  | Resume Website       | [Link](https://github.com/username/1-resume) | [Live](https://username.github.io/1-resume) |
-| 2  | Product Card         | [Link](https://github.com/username/2-card)   | [Live](#)                                 |
-| 3  | Portfolio Website    | [Link](#)                                     | [Live](#)                                 |
-| …  | …                    | …                                             | …                                         |
-| 100| SaaS Automation Tool | [Link](#)                                     | [Live](#)                                 |
+| #   | Project Name           | GitHub Repo                                                   | Live Demo                                         |
+|-----|------------------------|----------------------------------------------------------------|--------------------------------------------------|
+| 1   | Resume Page            | [View](https://github.com/username/resume-project)             | [Live](https://username.github.io/resume-project) |
+| 2   | Product Card           | [View](https://github.com/username/product-card)               | [Live](#)                                        |
+| 3   | Portfolio Website      | [View](#)                                                       | [Live](#)                                        |
+| ... | ...                    | ...                                                            | ...                                              |
+| 100 | SaaS Automation Tool   | [View](#)                                                       | [Live](#)                                        |
+
+> 🔄 *Projects will be added continuously. Stay tuned or follow the repo to watch my journey.*
 
 ---
 
-## 🔥 Featured Projects
+## 🧰 Tech Stack
 
-### 🛒 E-Commerce Web App
+### 👨‍🎨 Frontend  
+- HTML, CSS, JavaScript  
+- React.js, Tailwind CSS, Axios  
 
-> Full MERN stack e-commerce website with product listings, user auth, Stripe payments, and admin dashboard.
+### 🧑‍💻 Backend  
+- Node.js, Express.js  
+- MongoDB, MySQL  
 
-![ecommerce](https://your-image-link.com/ecommerce.png)
+### 🔐 Authentication  
+- JWT (JSON Web Tokens)  
+- OAuth2, Session-based Auth  
 
-🔗 [Live Demo](#) • 💻 [GitHub Repo](#)
+### ☁️ Deployment  
+- GitHub Pages  
+- Vercel  
+- Render  
 
 ---
 
-### 💬 Real-time Chat App
+## 🧠 Skills Built (and Building...)
 
-> Built using React and Socket.io — supports login, emojis, online user status, and real-time messaging.
-
-![chat](https://your-image-link.com/chat.png)
-
-🔗 [Live Demo](#) • 💻 [GitHub Repo](#)
+- Component-based UI design  
+- REST APIs and Express middleware  
+- State Management (Redux, Context API)  
+- CRUD Operations with MongoDB/MySQL  
+- Authentication & Authorization  
+- Deployment Pipelines  
+- Git & GitHub Proficiency  
+- Clean Code & Folder Structure  
+- Real-world SaaS Thinking
 
 ---
+
+## 📸 GitHub Profile Preview
+
+> [Visit My Profile »](https://github.com/Dhirajmahto/100-fullstack-project/edit/main/README.md)
 
 ## 📈 GitHub Stats
 
@@ -90,20 +91,28 @@ This is my journey to become a **master full stack developer** by building 100 p
   <img src="https://github-readme-stats.vercel.app/api?username=dhirajmahto&show_icons=true&theme=dark" />
 </p>
 
----
-
-## 📬 Contact Me
-
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- ✉️ Email: dhiraj@email.com
 
 ---
 
-## ⭐ Support
+## 📬 Connect with Me
 
-If this helped you or inspired you, consider giving it a ⭐  
-You can even fork the repo and start your own 100-project journey!
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourname/)
+- 🌐 [Portfolio Website](https://yourportfolio.com)
+- 📧 [Email Me](mailto:dhiraj@email.com)
 
-> **“Don’t wait for job opportunities. Build skills so strong that companies chase you.”**  
-> — Dhiraj Mahto   
+---
+
+## 🙏 Gratitude
+
+Thank you for checking out my journey. If you found this inspiring, give it a ⭐, or fork it and start your own!
+
+> "Don't just code to get hired — code to become unstoppable."  
+> — *Dhiraj Mahto*
+
+---
+
+## 📌 Pro Tip for You
+
+If you're a recruiter reading this — I'm ready to build amazing things with your team.  
+Let's talk. 👇  
+📧 dhiraj@email.com
