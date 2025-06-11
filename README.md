@@ -87,7 +87,7 @@ This is my journey to become a **master full stack developer** by building 100 p
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhirajmahto&show_icons=true&theme=dark" />
 </p>
 
 ---
@@ -106,4 +106,4 @@ If this helped you or inspired you, consider giving it a ⭐
 You can even fork the repo and start your own 100-project journey!
 
 > **“Don’t wait for job opportunities. Build skills so strong that companies chase you.”**  
-> — Dhiraj Mahto
+> — Dhiraj Mahto   
