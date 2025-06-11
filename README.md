@@ -34,13 +34,38 @@ Every developer learns differently. I'm building **100 projects** to master full
 
 ## 📁 Project Directory
 
-| #   | Project Name           | GitHub Repo                                                   | Live Demo                                         |
-|-----|------------------------|----------------------------------------------------------------|--------------------------------------------------|
-| 1   | Resume Page            | [View](https://github.com/username/resume-project)             | [Live](https://username.github.io/resume-project) |
-| 2   | Product Card           | [View](https://github.com/username/product-card)               | [Live](#)                                        |
-| 3   | Portfolio Website      | [View](#)                                                       | [Live](#)                                        |
-| ... | ...                    | ...                                                            | ...                                              |
-| 100 | SaaS Automation Tool   | [View](#)                                                       | [Live](#)                                        |
+## 🟢 Beginner Level Projects (1–25)
+
+| #   | Project Name              | Core Concepts              | GitHub Repo                                          | Live Demo                                           |
+|-----|---------------------------|----------------------------|------------------------------------------------------|----------------------------------------------------|
+| 1   | Resume Page               | HTML/CSS                   | [View](https://github.com/username/resume-project)   | [Live](https://username.github.io/resume-project) |
+| 2   | Product Card              | Flexbox/Grid               | [View](https://github.com/username/product-card)     | [Live](#)                                          |
+| 3   | Portfolio Website         | React + Routing            | [View](#)                                             | [Live](#)                                          |
+| 4   | Login/Register App        | Node + Express + JWT       | [View](#)                                             | [Live](#)                                          |
+| 5   | Weather App               | API Integration            | [View](#)                                             | [Live](#)                                          |
+| 6   | Calculator App            | JS DOM                     | [View](#)                                             | [Live](#)                                          |
+| 7   | Notes App (LocalStorage)  | Storage                    | [View](#)                                             | [Live](#)                                          |
+| 8   | Quiz App                  | State Management           | [View](#)                                             | [Live](#)                                          |
+| 9   | Countdown Timer           | setInterval                | [View](#)                                             | [Live](#)                                          |
+| 10  | Todo List                 | CRUD                       | [View](#)                                             | [Live](#)                                          |
+| 11  | Image Gallery             | Grid Layout                | [View](#)                                             | [Live](#)                                          |
+| 12  | Sticky Notes App          | Save/Delete Notes          | [View](#)                                             | [Live](#)                                          |
+| 13  | Digital Clock             | JS Time                    | [View](#)                                             | [Live](#)                                          |
+| 14  | Blog UI                   | HTML/CSS Structure         | [View](#)                                             | [Live](#)                                          |
+| 15  | Music Player              | Audio API                  | [View](#)                                             | [Live](#)                                          |
+| 16  | Form Validator            | Regex / JS Validation      | [View](#)                                             | [Live](#)                                          |
+| 17  | Meme Generator            | Public API                 | [View](#)                                             | [Live](#)                                          |
+| 18  | GitHub Profile Fetcher    | Axios / API                | [View](#)                                             | [Live](#)                                          |
+| 19  | Currency Converter        | External API               | [View](#)                                             | [Live](#)                                          |
+| 20  | Color Picker App          | JS / React States          | [View](#)                                             | [Live](#)                                          |
+| 21  | BMI Calculator            | Form + Logic               | [View](#)                                             | [Live](#)                                          |
+| 22  | Random Quote Generator    | API Calls                  | [View](#)                                             | [Live](#)                                          |
+| 23  | Password Generator        | Logic Building             | [View](#)                                             | [Live](#)                                          |
+| 24  | QR Code Generator         | JS Libraries               | [View](#)                                             | [Live](#)                                          |
+| 25  | Expense Tracker (Frontend)| JS Charts                  | [View](#)                                             | [Live](#)                                          |
+
+> ⚙️ Replace `username` with your GitHub username (e.g. Dhirajmahto).
+                                                | [Live](#)                                        |
 
 > 🔄 *Projects will be added continuously. Stay tuned or follow the repo to watch my journey.*
 
